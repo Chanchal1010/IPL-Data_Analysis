@@ -3,13 +3,13 @@ This project analyzes historical IPL match data and predicts the outcome of a ma
 
 <details>
 <summary>Table of Contents</summary>
-- [Overview](Overview)
-- [Technologies](Technologies)
-- [Dataset](Dataset)
-- [Modeling](Modeling)
-- [Visualization](Visualization)
-- [Installation](Installation)
-- [Results](Results)
+- [Overview](#Overview)
+- [Technologies](#Technologies)
+- [Dataset](#Dataset)
+- [Modeling](#Modeling)
+- [Visualization](#Visualization)
+- [Installation](#Installation)
+- [Results](#Results)
   
 </details>
 
