@@ -3,15 +3,17 @@ This project analyzes historical IPL match data and predicts the outcome of a ma
 
 <details>
 <summary>Table of Contents</summary>
+
 - [Overview](#Overview)
 - [Technologies](#Technologies)
 - [Dataset](#Dataset)
 - [Modeling](#Modeling)
-- [Visualization](#Visualization)
+- [Visualization](#visualization)
 - [Installation](#Installation)
-- [Results](#Results)
-  
+- [Results](#results)
+
 </details>
+
 
 ## 📑Overview
 In this project, we analyze IPL match data to predict match outcomes. The data is preprocessed to remove missing values and duplicates, then visualizations are created to understand match trends. We train two machine learning models — Logistic Regression and Random Forest — and compare their performance in predicting the match winner.
